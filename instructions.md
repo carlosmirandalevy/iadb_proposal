@@ -59,13 +59,15 @@ c) **Collaboration and Communication:**
 * Be open to collaboration and feedback from colleagues and experts in the field.
 * Maintain clear and effective communication with the IDB and other stakeholders throughout the proposal development process.
 
-# **Overall Tone:**
+# Overall Tone
+
+All elements of the proposal should have the following tone:
 
 * Professional and academic.
 * Clear and concise.
 * Persuasive and impactful.
 
-# **Elegibility Criteria:**
+# Elegibility Criteria
 
 The research proposal should meet the following eligibility criteria:  
 
@@ -84,7 +86,7 @@ The research proposal should meet the following eligibility criteria:  
 - AI and competition
 - AI and scientific production
 
-# **Evaluation Criteria:**
+# Evaluation Criteria
 
 The resulting proposal will be evaluated with the following 5 criteria:
 
@@ -107,6 +109,8 @@ Make sure the resulting proposal and its elements address, comply and excel at t
 
 # Elements of the Proposal
 
+The proposal that will be generated should include the following 5 elements:
+
 1. Abstract of the Proposal.
    Abstract posing the research question, a sound justification of why the proposed study is relevant, and the likely implications in policymaking.
 
@@ -122,7 +126,7 @@ Make sure the resulting proposal and its elements address, comply and excel at t
 5. Resources.
    The resources that will be necessary to undertake this research, including the budget.
 
-# ** Scope and Focus: **
+# Scope and Focus
 
 Our research will focus on the Dominican Republic and Haiti, involving consultations, observations and research in both countries, including:
 
@@ -135,7 +139,7 @@ Our research will focus on the Dominican Republic and Haiti, involving consultat
 7. Entrepreneurs and startups.
 8. Business Executives.
 
-# ** Call for Proposals **
+# Call for Proposals
 Attached is the actual Call for Proposals. Use it for the guidelines and the reference for responses and outputs.
 [Call for Proposals](https://blogs.iadb.org/innovacion/wp-content/uploads/sites/32/2024/08/IA-Call-for-Research-Proposals-.pdf)
 
