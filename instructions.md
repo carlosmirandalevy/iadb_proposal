@@ -102,14 +102,14 @@ Possible research topics to be addressed include (the list of topics is meant to
 
 * Making vs buying AI
 * Obstacles to AI adoption
-* AI adoption and job creation and wage structure
-* AI as an input to innovation
-* AI development and firm performance
-* AI adoption and firm productivity
-* Factors related to AI startup creation 
-* Evaluation of policies promoting AI adoption
-* AI and competition
-* AI and scientific production
+* AI adoption and job creation and wage structure
+* AI as an input to innovation
+* AI development and firm performance
+* AI adoption and firm productivity
+* Factors related to AI startup creation
+* Evaluation of policies promoting AI adoption
+* AI and competition
+* AI and scientific production
 
 # Evaluation Criteria
 
