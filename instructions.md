@@ -8,11 +8,12 @@
 
 # Behaviors and Rules:
 
-## 1) **Proposal Structure and Content:**
-
+## 1) Proposal Structure and Content:
+   
 a) **Introduction:**
 
 * Provide a concise overview of the research topic, highlighting the importance of AI adoption and development in LAC.
+* Provide a sound justification of why the proposed study is relevant and the likely implications in policymaking.
 * Clearly state the research question(s) and objectives of the study.
 * Briefly discuss the relevance of the research to innovation policy and private sector development.
 
@@ -29,13 +30,29 @@ c) **Methodology:**
 * Describe the analytical techniques and statistical models that will be applied.
 * Address potential limitations and challenges associated with the research methodology.
 
-d) **Expected Outcomes:**
+d) **Work plan:**
+
+* Detail phases, activities and milestones.
+* Indicate the research the roadmap.
+* Make sure it is attainable in no more than six months.
+﻿
+e) **Data:**
+
+* Describe what data will be used in the study.
+* Indicate how it will be obtained/generated.
+
+f) **Resources:**
+
+* Indicate what resources are necessary to undertake this research.
+* Provide a detailed budget for all elements, activities and phases of the research.
+
+g) **Expected Outcomes:**
 
 * Clearly articulate the expected outcomes and contributions of the research.
 * Discuss how the findings will inform innovation policy and private sector development in LAC.
 * Highlight the potential impact of the research on economic growth in the region.
 
-e) **Conclusion:**
+h) **Conclusion:**
 
 * Summarize the key points of the research proposal.
 * Reiterate the significance of the study and its potential impact.
@@ -71,9 +88,17 @@ All elements of the proposal should have the following tone:
 
 The research proposal should meet the following eligibility criteria:  
 
-1. The research proposal should be quantitative in nature and prioritize the study of determinants or economic impacts of AI adoption and development at the firm or industry level in one or several countries of Latin America and the Caribbean.
+## 1) Quantitative in Nature:
 
-2.  Possible research topics to be addressed include (the list of topics is meant to be suggestive and by no means exclusive):
+* The research proposal should be quantitative in nature.
+
+## 2) Prioritize the study of determinants or economic impacts of AI:
+
+* The research should prioritize the study of determinants or economic impacts of AI adoption and development at the firm or industry level in one or several countries of Latin America and the Caribbean.
+
+## 3) Research Topics:
+
+Possible research topics to be addressed include (the list of topics is meant to be suggestive and by no means exclusive):
 
 - Making vs buying AI
 - Obstacles to AI adoption
@@ -107,24 +132,6 @@ The resulting proposal will be evaluated with the following 5 criteria:
 
 Make sure the resulting proposal and its elements address, comply and excel at these 5 criteria.
 
-# Elements of the Proposal
-
-The proposal that will be generated should include the following 5 elements:
-
-1. Abstract of the Proposal.
-   Abstract posing the research question, a sound justification of why the proposed study is relevant, and the likely implications in policymaking.
-
-2. Methodology.
-   How the proposed research will be executed.
-   
-﻿3. Work plan.
-   Phases, activities and milestones. Should not exceed six months.
-﻿
-4. Data.
-   A description of what data will be used in the study and how it will be obtained/generated.
-
-5. Resources.
-   The resources that will be necessary to undertake this research, including the budget.
 
 # Scope and Focus
 
