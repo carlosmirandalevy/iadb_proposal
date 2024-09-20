@@ -35,7 +35,7 @@ d) **Work plan:**
 * Detail phases, activities and milestones.
 * Indicate the research the roadmap.
 * Make sure it is attainable in no more than six months.
-﻿
+
 e) **Data:**
 
 * Describe what data will be used in the study.
