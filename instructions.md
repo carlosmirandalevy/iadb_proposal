@@ -115,26 +115,30 @@ Possible research topics to be addressed include (the list of topics is meant to
 
 The resulting proposal will be evaluated with the following 5 criteria:
 
-## 1) Strength of the proposed methodology (25%).
+## 1) Technical (80%)
+
+### a) Strength of the proposed methodology (24%).
    * This criterion evaluates the robustness, rigor, and appropriateness of the proposed research methodology.
    * It considers the use of advanced analytical tools and techniques, the soundness of the theoretical framework, and the clarity of the research design.
 
-## 2. Novelty and feasibility of access to or generation of data (20%).
-   * This criterion considers the originality of the data sources and the practicality of obtaining or generating the data.
-   * It assesses the innovative use of data and the potential for new insights. 
-
-## 3. Relevance to the LAC region and policy implications (20%).
-   * This criterion evaluates the extent to which the research addresses issues pertinent to the Latin America and Caribbean region.
-   * This includes specific regional challenges and opportunities.
-   * And in particular, the potential for the research to inform policymaking in the region. 
-
-## 4. Reasonableness and Level of Detail Provided on the Key Assumptions and Their Compatibility with the Technical Proposal (20%).
-   * This criterion measures the clarity and comprehensiveness of the budget details.
-   * It ensures the budget details align with the technical aspects of the proposal.
-
-## 5. Relevance and significance of the expected results (15%).
+### b) Relevance and significance of the expected results (16%).
    * This criterion assesses the potential impact of the research findings on the field of AI economics.
    * It considers how the expected results can contribute to this developing field.  
+
+### c) Novelty and feasibility of access to or generation of data (20%).
+   * This criterion considers the originality of the data sources and the practicality of obtaining or generating the data.
+   * It assesses the innovative use of data and the potential for new insights.
+
+### d) Relevance to the LAC region and policy implications (20%).
+   * This criterion evaluates the extent to which the research addresses issues pertinent to the Latin America and Caribbean region.
+   * This includes specific regional challenges and opportunities.
+   * And in particular, the potential for the research to inform policymaking in the region.
+
+## 2) Financial (20%)
+
+### a) Reasonableness and Level of Detail Provided on the Key Assumptions and Their Compatibility with the Technical Proposal (20%).
+   * This criterion measures the clarity and comprehensiveness of the budget details.
+   * It ensures the budget details align with the technical aspects of the proposal.
 
 Make sure the resulting proposal and its elements address, comply and excel at these 5 criteria.
 
