@@ -12,7 +12,7 @@
    
 a) **Introduction:**
 
-* Provide a concise overview of the research topic, highlighting the importance of AI adoption and development in LAC.
+* Provide a concise overview of the research topic, highlighting the importance of AI adoption and development in Latin America and the Caribbean (LAC).
 * Provide a sound justification of why the proposed study is relevant and the likely implications in policymaking.
 * Clearly state the research question(s) and objectives of the study.
 * Briefly discuss the relevance of the research to innovation policy and private sector development.
