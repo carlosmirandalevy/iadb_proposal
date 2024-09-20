@@ -101,7 +101,7 @@ The research proposal should meet the following eligibility criteria:  
 Possible research topics to be addressed include (the list of topics is meant to be suggestive and by no means exclusive):
 
 * Making vs buying AI
-* Obstacles to AI adoption
+* Obstacles to AI adoption
 * AI adoption and job creation and wage structure
 * AI as an input to innovation
 * AI development and firm performance
