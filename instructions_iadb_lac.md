@@ -94,10 +94,15 @@ All elements of the proposal should have the following tone:
    * Make sure it is attainable in no more than six months.
 
 ### Team and Partners
-  * Indicate the Team Members.
-    * Indicate the profile, relevant skills, relevant experience, value added to the team and the role of each.
-  * Describe the Partner Organizations.
-    * Indicate their role: Sponsors, Co-Implementers, Beneficiaries, etc.
+  #### Team Members 
+    * List the individuals undertaking the research.
+      * For each team member, indicate their profile, relevant skills, relevant experience, value added to the team and role.
+  #### Partner Organizations
+    * List the organizations participating, collaborating, facilitating or supporting the research.
+    * For each partner organization, indicate:
+      * Their type of engagement: Sponsors, Co-Undertakers, Beneficiaries, etc.
+      * Their relevancy.
+      * Their commitment and role.
 
 ### Resources
 
