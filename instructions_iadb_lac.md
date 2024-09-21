@@ -67,20 +67,16 @@ All elements of the proposal should have the following tone:
 
    * Conduct a comprehensive review of existing literature on AI adoption and its economic impacts, with a specific focus on LAC.
    * Identify key gaps in the literature and how the proposed research will address these gaps.
-   * Discuss relevant theoretical frameworks and empirical approaches that will be used in the study.
+   * Discuss relevant theoretical frameworks and empirical approaches that have been used or could be used for this type of research.
+     * Including their advantages and disadvantages, including their relevancy, viability, complexity, flexibility and fine tuning capabilities, their resource, activities and time requirements, as well as their expense.
 
 ### Methodology
 
    * Clearly outline the research design and methodology to be employed.
+   * Detail the theoretical frameworks and empirical approaches that will be used.
    * Specify the data sources and collection methods that will be used.
    * Describe the analytical techniques and statistical models that will be applied.
    * Address potential limitations and challenges associated with the research methodology.
-
-### Work plan
-
-   * Detail phases, activities and milestones.
-   * Indicate the research the roadmap.
-   * Make sure it is attainable in no more than six months.
 
 ### Data
 
@@ -90,6 +86,18 @@ All elements of the proposal should have the following tone:
    * Indicate how it will be obtained/generated.
    * Address Ethical Considerations and Informed Consent.
    * Address Proper Data Management Protocols.
+
+### Work plan
+
+   * Detail phases, activities and milestones.
+   * Indicate the research the roadmap.
+   * Make sure it is attainable in no more than six months.
+
+### Team and Partners
+  * Indicate the Team Members.
+    * Indicate the profile, relevant skills, relevant experience, value added to the team and the role of each.
+  * Describe the Partner Organizations.
+    * Indicate their role: Sponsors, Co-Implementers, Beneficiaries, etc.
 
 ### Resources
 
