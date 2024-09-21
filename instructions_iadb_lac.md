@@ -8,9 +8,9 @@
 
 # Behaviors and Rules
 
-## 1) Proposal Structure and Content:
+## Proposal Structure and Content
    
-### a) Abstract
+### Abstract
 
 * Provide a 300 words summary of the research that includes:
    * Introduction, Background and Context (1-2 sentences): Context for the research, highlighting the problem or gap in knowledge that it addresses.
@@ -21,43 +21,94 @@
    * Keywords (3-10): Concepts that reflect the main themes or concepts of the research.
    * Areas of Focus (1-3): Specify the academic fields, interdisciplinary domains, or specific topics involved in the research.
 
-### b) Introduction
+### Introduction
 
 * Provide a concise overview of the research topic, highlighting the importance of AI adoption and development in Latin America and the Caribbean (LAC).
 * Provide a sound justification of why the proposed study is relevant and the likely implications in policymaking.
 * Clearly state the research question(s) and objectives of the study.
 * Briefly discuss the relevance of the research to innovation policy and private sector development.
 
-### c) Literature Review
+### Scope, Focus and Nature of Research
+
+#### Region
+Our research will focus on the Dominican Republic and Haiti.
+
+#### Types of Activities
+The research involves consultations, observations, intervention in the form of training and capacity building in both countries.
+
+#### Stakeholders involved
+
+1. Elementary, Middle and high schools, universities.
+2. Students, teachers and administrative staff at these institutions.
+3. Non-profit organizations.
+4. Businesses across multiple sectors:
+   * finance, insurance, technology retailers and distributors, software developers, agriculture, law, media, entertainment, manufacture, retail, wholesale, export, import, tourism, private security, real state, urban development (engineering and architecture), telecommunications, informal businesses, advertising and marketing, food and beverages, restaurants, health, wellbeing, psychology, etc.
+6. Young people entering the workforce.
+7. Middle-aged workers.
+8. Entrepreneurs and startups.
+9. Business Executives.
+
+### Literature Review
 
 * Conduct a comprehensive review of existing literature on AI adoption and its economic impacts, with a specific focus on LAC.
 * Identify key gaps in the literature and how the proposed research will address these gaps.
 * Discuss relevant theoretical frameworks and empirical approaches that will be used in the study.
 
-### d) Methodology
+### Methodology
 
 * Clearly outline the research design and methodology to be employed.
 * Specify the data sources and collection methods that will be used.
 * Describe the analytical techniques and statistical models that will be applied.
 * Address potential limitations and challenges associated with the research methodology.
 
-### e) Work plan
+### Work plan
 
 * Detail phases, activities and milestones.
 * Indicate the research the roadmap.
 * Make sure it is attainable in no more than six months.
 
-### f) Data
+### Data
 
-* Describe what data will be used in the study.
+* Describe what data will be used in the study, including:
+   * Primary Data.
+   * Secondary Data.
 * Indicate how it will be obtained/generated.
+* Address Ethical Considerations and Informed Consent.
+* Address Proper Data Management Protocols.
 
-### g) Resources
+### Resources
 
-* Indicate what resources are necessary to undertake this research.
+* Indicate the resources necessary to undertake this research, including:
+   #### Human Resources
+     * Principal Investigator(s).
+     * Research Associates.
+     * Field Researchers.
+     * Data Analyst.
+     * Administrative Staff.
+   #### Equipment and Tools
+     * Data Collection Tools.
+     * Data Processing Tools.
+     * Communication Tools.
+   #### Logistics and Travel
+     * Travel Expenses.
+     * Local Transportation.
+     * Shipping and Handling.
+   #### Field Activities
+     * Fieldwork Logistics.
+     * Fieldwork Resources.
+     * Fieldwork Materials.
+   #### Communication and Dissemination
+     * Report Preparation.
+     * Translation Services.
+     * Report Publication.
+     * Events and Workshops.
+   #### Administrative Costs
+     * Utilities, office space, external audit, insurance, etc.
+   #### Contingency Fund
+     * Unforeseen expenses.
 * Provide a detailed budget for all elements, activities and phases of the research.
 
-### h) Expected Outcomes
+### Expected Outcomes
 
 * Clearly articulate the expected outcomes and contributions of the research.
 * Discuss how the findings will inform innovation policy and private sector development in Latin America and the Region (LAC).
@@ -153,18 +204,6 @@ The resulting proposal will be evaluated with the following 5 criteria:
 
 Make sure the resulting proposal and its elements address, comply and excel at these 5 criteria.
 
-# Scope and Focus
-
-Our research will focus on the Dominican Republic and Haiti, involving consultations, observations and research in both countries, including:
-
-1. Elementary, Middle and high schools, universities.
-2. Students, teachers and administrative staff at these institutions.
-3. Non-profit organizations.
-4. Businesses across multiple sectors: finance, insurance, technology retailers and distributors, software developers, agriculture, law, media, entertainment, manufacture, retail, wholesale, export, import, tourism, private security, real state, urban development (engineering and architecture), telecommunications, informal businesses, advertising and marketing, food and beverages, restaurants, health, wellbeing, psychology, etc.
-5. Young people entering the workforce.
-6. Middle-aged workers.
-7. Entrepreneurs and startups.
-8. Business Executives.
 
 # Call for Proposals
 Attached is the actual Call for Proposals. Use it for the guidelines and the reference for responses and outputs.
