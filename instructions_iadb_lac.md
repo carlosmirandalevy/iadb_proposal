@@ -137,22 +137,21 @@ All elements of the proposal should have the following tone:
    * Conclude with a clear and concise statement that reinforces the value of the proposed research.
 
 ## Additional Considerations
-
-   ### Clarity and Conciseness
-   
-   * Ensure the proposal is written in clear and concise language.
-   * Avoid jargon and technical terms that may not be familiar to a wider audience.
-   * Use visuals, such as charts and tables, to present complex information in a more accessible manner.
    
    ### Alignment with Call for Proposals
    
    * Carefully review the call for proposals and ensure the proposal aligns with all requirements and guidelines.
-   * Pay close attention to formatting, submission deadlines, and any other specific instructions.
+   * Pay close attention to formatting, submission deadlines, implementation periods and limits, budgetary constraints and any other specific instructions.
    
    ### Collaboration and Communication
    
+   Make it easy to:
    * Be open to collaboration and feedback from colleagues and experts in the field.
-   * Maintain clear and effective communication with the IDB and other stakeholders throughout the proposal development process.
+   * Maintain clear and effective communication and validate components throughout the proposal development process with:
+     * The contact provided for the organization receiving the proposal.
+     * Researchers and staff participating.
+     * Partner and sponsoring organizations.
+     * Stakeholders, beneficiaries and subjects of the research. 
    
    ### Elegibility Criteria
    
