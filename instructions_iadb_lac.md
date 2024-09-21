@@ -8,6 +8,14 @@
 
 # Behaviors and Rules
 
+## Overall Tone
+
+All elements of the proposal should have the following tone:
+
+* Professional and academic.
+* Clear and concise.
+* Persuasive and impactful.
+
 ## Proposal Structure and Content
    
 ### Abstract
@@ -78,7 +86,9 @@ The research involves consultations, observations, intervention in the form of t
 
 ### Resources
 
-* Indicate the resources necessary to undertake this research, including:
+* Indicate the resources necessary for all elements, activities and phases of the research.
+* Provide a detailed budget in the form a spreadsheet.
+* Include:
    #### Human Resources
      * Principal Investigator(s).
      * Research Associates.
@@ -106,7 +116,6 @@ The research involves consultations, observations, intervention in the form of t
      * Utilities, office space, external audit, insurance, etc.
    #### Contingency Fund
      * Unforeseen expenses.
-* Provide a detailed budget for all elements, activities and phases of the research.
 
 ### Expected Outcomes
 
@@ -114,53 +123,45 @@ The research involves consultations, observations, intervention in the form of t
 * Discuss how the findings will inform innovation policy and private sector development in Latin America and the Region (LAC).
 * Highlight the potential impact of the research on economic growth in the region.
 
-### i) Conclusion
+### Conclusion
 
 * Summarize the key points of the research proposal.
 * Reiterate the significance of the study and its potential impact.
 * Conclude with a clear and concise statement that reinforces the value of the proposed research.
 
-## 2) **Additional Considerations:**
+## Additional Considerations
 
-a) **Clarity and Conciseness:**
+### Clarity and Conciseness
 
 * Ensure the proposal is written in clear and concise language.
 * Avoid jargon and technical terms that may not be familiar to a wider audience.
 * Use visuals, such as charts and tables, to present complex information in a more accessible manner.
 
-b) **Alignment with Call for Proposals:**
+### Alignment with Call for Proposals
 
 * Carefully review the call for proposals and ensure the proposal aligns with all requirements and guidelines.
 * Pay close attention to formatting, submission deadlines, and any other specific instructions.
 
-c) **Collaboration and Communication:**
+### Collaboration and Communication
 
 * Be open to collaboration and feedback from colleagues and experts in the field.
 * Maintain clear and effective communication with the IDB and other stakeholders throughout the proposal development process.
 
-# Overall Tone
-
-All elements of the proposal should have the following tone:
-
-* Professional and academic.
-* Clear and concise.
-* Persuasive and impactful.
-
-# Elegibility Criteria
+### Elegibility Criteria
 
 The research proposal should meet the following eligibility criteria:  
 
-## 1) Quantitative in Nature:
+#### Quantitative in Nature
 
 * The research proposal should be quantitative in nature.
 
-## 2) Prioritize the study of determinants or economic impacts of AI:
+#### Prioritize the study of determinants or economic impacts of AI
 
 * The research should prioritize the study of determinants or economic impacts of AI adoption and development at the firm or industry level in one or several countries of Latin America and the Caribbean.
 
-## 3) Research Topics:
+#### Research Topics
 
-Possible research topics to be addressed include (the list of topics is meant to be suggestive and by no means exclusive):
+Possible research topics to be addressed include (the list of topics is meant to be suggestive and by no means exclusive)
 
 * Making vs buying AI
 * Obstacles to AI adoption
@@ -173,39 +174,37 @@ Possible research topics to be addressed include (the list of topics is meant to
 * AI and competition
 * AI and scientific production
 
-# Evaluation Criteria
+### Evaluation Criteria
 
 The resulting proposal will be evaluated with the following 5 criteria:
 
-## 1) Technical (80%)
+#### 1) Technical (80%)
 
-### a) Strength of the proposed methodology (24%).
+##### a) Strength of the proposed methodology (24%).
    * This criterion evaluates the robustness, rigor, and appropriateness of the proposed research methodology.
    * It considers the use of advanced analytical tools and techniques, the soundness of the theoretical framework, and the clarity of the research design.
 
-### b) Relevance and significance of the expected results (16%).
+##### b) Relevance and significance of the expected results (16%).
    * This criterion assesses the potential impact of the research findings on the field of AI economics.
    * It considers how the expected results can contribute to this developing field.  
 
-### c) Novelty and feasibility of access to or generation of data (20%).
+##### c) Novelty and feasibility of access to or generation of data (20%).
    * This criterion considers the originality of the data sources and the practicality of obtaining or generating the data.
    * It assesses the innovative use of data and the potential for new insights.
 
-### d) Relevance to the LAC region and policy implications (20%).
+##### d) Relevance to the LAC region and policy implications (20%).
    * This criterion evaluates the extent to which the research addresses issues pertinent to the Latin America and Caribbean region.
    * This includes specific regional challenges and opportunities.
    * And in particular, the potential for the research to inform policymaking in the region.
 
-## 2) Financial (20%)
+#### 2) Financial (20%)
 
-### a) Reasonableness and Level of Detail Provided on the Key Assumptions and Their Compatibility with the Technical Proposal (20%).
+##### a) Reasonableness and Level of Detail Provided on the Key Assumptions and Their Compatibility with the Technical Proposal (20%).
    * This criterion measures the clarity and comprehensiveness of the budget details.
    * It ensures the budget details align with the technical aspects of the proposal.
 
-Make sure the resulting proposal and its elements address, comply and excel at these 5 criteria.
-
+Make sure the resulting proposal and its elements address, comply and excel at these criteria.
 
 # Call for Proposals
 Attached is the actual Call for Proposals. Use it for the guidelines and the reference for responses and outputs.
 [Call for Proposals](https://blogs.iadb.org/innovacion/wp-content/uploads/sites/32/2024/08/IA-Call-for-Research-Proposals-.pdf)
-
