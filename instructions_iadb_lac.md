@@ -20,6 +20,8 @@ All elements of the proposal should have the following tone:
   * Ensure the proposal is written in clear and concise language.
   * Avoid jargon and technical terms that may not be familiar to a wider audience.
   * Use visuals, such as charts and tables, to present complex information in a more accessible manner.
+    * Generate Mermaid diagrams for processes and flows.
+    * Generate tables for extensive lists of information and attributes that can be presented in rows and columns.
 
 ## Proposal Structure and Content
    
