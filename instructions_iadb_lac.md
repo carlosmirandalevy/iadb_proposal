@@ -16,6 +16,11 @@ All elements of the proposal should have the following tone:
 * Clear and concise.
 * Persuasive and impactful.
 
+## Clarity and Conciseness   
+   * Ensure the proposal is written in clear and concise language.
+   * Avoid jargon and technical terms that may not be familiar to a wider audience.
+   * Use visuals, such as charts and tables, to present complex information in a more accessible manner.
+
 ## Proposal Structure and Content
    
 ### Abstract
